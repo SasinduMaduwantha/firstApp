@@ -1,0 +1,12 @@
+{
+  "name": "demo-app",
+  "version": "0.0.1",
+  "description": "my first app",
+  "author": "sasindu",
+  "private": true,
+  "dependencies": {
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}

@@ -12,10 +12,10 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Oleena App
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>Oleena 1.0.0</div>
       </q-toolbar>
     </q-header>
 
